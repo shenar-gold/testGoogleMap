@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/shareId"
+        android:title="@string/shareTtl"
+        app:showAsAction="ifRoom"
+       />
+
+</menu>
+    <!--android:icon="@drawable/whatsapp"-->
+    <!--android:icon="@drawable/messages"-->
+    <!--android:icon="@drawable/email"-->
+<!--<item-->
+<!--android:id="@+id/messagesId"-->
+<!--android:title="@string/messages"-->
+<!--app:showAsAction="never"-->
+    <!--/>-->
+<!--<item-->
+<!--android:id="@+id/emailId"-->
+<!--android:title="@string/email"-->
+<!--app:showAsAction="never"-->
+    <!--/>-->

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testGoogleMap</string>
+    <string name="search_go">go</string>
+    <string name="edidHint">where you want to go</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="messages">Messages</string>
+    <string name="email">Email</string>
+    <string name="shareTtl">Share</string>
+</resources>
